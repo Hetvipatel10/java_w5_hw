@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="65bfb3f1-232d-4283-9a49-85176af9deb6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_w5_hw.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework_5/Boidata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework_5/DJE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework_5/Divid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework_5/Face.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework_5/Multiple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework_5/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework_5/Sum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework_5/Traingle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework_5/Traingle2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Itm90KbQ6qMJ9gtxFw4mEw6y1Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Traingle2">
+    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework_5.Sum" />
+      <module name="java_w5_hw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework_5.Sum2" />
+      <module name="java_w5_hw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Traingl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework_5.Traingl" />
+      <module name="java_w5_hw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Traingle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework_5.Traingle" />
+      <module name="java_w5_hw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Traingle2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework_5.Traingle2" />
+      <module name="java_w5_hw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Traingle2" />
+        <item itemvalue="Application.Traingle" />
+        <item itemvalue="Application.Traingl" />
+        <item itemvalue="Application.Sum2" />
+        <item itemvalue="Application.Sum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65bfb3f1-232d-4283-9a49-85176af9deb6" name="Changes" comment="" />
+      <created>1671009100706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671009100706</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Homework_5/Traingle2.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Homework_5/Traingle2.java</url>
+          <line>4</line>
+          <properties class="Homework_5.Traingle2" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
